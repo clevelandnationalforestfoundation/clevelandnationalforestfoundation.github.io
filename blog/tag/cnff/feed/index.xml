@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Paradise Lost &#187; CNFF</title>
+	<atom:link href="/blog/tag/cnff/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Preservation of Southern California&#039;s Natural Resources</description>
+	<lastBuildDate>Tue, 05 Jul 2016 21:35:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.17</generator>
+	<item>
+		<title>Paradise Lost &#8211; Cleveland National Forest Foundation</title>
+		<link>/blog/2010/01/paradise-lost-cleveland-national-forest-foundation/</link>
+		<comments>/blog/2010/01/paradise-lost-cleveland-national-forest-foundation/#comments</comments>
+		<pubDate>Tue, 05 Jan 2010 18:00:02 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Biodiversity]]></category>
+		<category><![CDATA[CNFF]]></category>
+		<category><![CDATA[Conservation]]></category>
+		<category><![CDATA[Forest]]></category>
+		<category><![CDATA[Nature]]></category>
+		<category><![CDATA[Wildlife]]></category>
+
+		<guid isPermaLink="false">/blog/?p=3</guid>
+		<description><![CDATA[CNFF blog goes live!]]></description>
+		<wfw:commentRss>/blog/2010/01/paradise-lost-cleveland-national-forest-foundation/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

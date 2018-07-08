@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Paradise Lost &#187; Beauty</title>
+	<atom:link href="/blog/tag/beauty/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Preservation of Southern California&#039;s Natural Resources</description>
+	<lastBuildDate>Tue, 05 Jul 2016 21:35:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.17</generator>
+	<item>
+		<title>Homesickness at Home</title>
+		<link>/blog/2010/02/homesickness-at-home/</link>
+		<comments>/blog/2010/02/homesickness-at-home/#comments</comments>
+		<pubDate>Wed, 10 Feb 2010 23:52:01 +0000</pubDate>
+		<dc:creator><![CDATA[Duncan]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Beauty]]></category>
+		<category><![CDATA[City]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[Economy]]></category>
+		<category><![CDATA[Forest]]></category>
+		<category><![CDATA[Harbor]]></category>
+		<category><![CDATA[Mitigation]]></category>
+		<category><![CDATA[Survival]]></category>
+
+		<guid isPermaLink="false">/blog/?p=27</guid>
+		<description><![CDATA[By Duncan McFetridge http://www.nytimes.com/2010/01/31/magazine/31ecopsych-t.html In the above article, the modern phenomenon of losing place is identified as a new form of illness: “homesickness at home”. It is a sickness by which placeless projects gradually undermine the foundations of a community until one day we wake up and, seeing our city and our wilderness drifting away, [&#8230;]]]></description>
+		<wfw:commentRss>/blog/2010/02/homesickness-at-home/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Paradise Lost &#187; San Diego Mobility</title>
+	<atom:link href="/blog/tag/san-diego-mobility/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Preservation of Southern California&#039;s Natural Resources</description>
+	<lastBuildDate>Tue, 05 Jul 2016 21:35:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.17</generator>
+	<item>
+		<title>CNFF Opposes the SANDAG Ballot Measure</title>
+		<link>/blog/2016/07/cnff-opposes-the-sandag-ballot-measure/</link>
+		<comments>/blog/2016/07/cnff-opposes-the-sandag-ballot-measure/#comments</comments>
+		<pubDate>Tue, 05 Jul 2016 21:34:27 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Quality of Life]]></category>
+		<category><![CDATA[San Diego Mobility]]></category>
+		<category><![CDATA[San Diego transit]]></category>
+		<category><![CDATA[SANDAG]]></category>
+		<category><![CDATA[transitsandiego]]></category>
+
+		<guid isPermaLink="false">/blog/?p=44</guid>
+		<description><![CDATA[For Immediate Release July 5, 2016 Contact Jana Clark, (619) 659-8962 Jack Shu, (619) 460-9215 Duncan McFetridge, (619) 659-8962 Cleveland National Forest Foundation The so-called transit improvements in the proposed SANDAG tax measure for the November ballot are propaganda. Frantic Last minute deal making wastes 7 billion in tax dollars for transit improvements that don’t even add up [&#8230;]]]></description>
+		<wfw:commentRss>/blog/2016/07/cnff-opposes-the-sandag-ballot-measure/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

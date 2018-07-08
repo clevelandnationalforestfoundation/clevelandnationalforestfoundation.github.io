@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Paradise Lost &#187; Watersheds</title>
+	<atom:link href="/blog/tag/watersheds/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Preservation of Southern California&#039;s Natural Resources</description>
+	<lastBuildDate>Tue, 05 Jul 2016 21:35:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.3.17</generator>
+	<item>
+		<title>Preserve the Legacy &#8212; CNFF Video</title>
+		<link>/blog/2010/03/preserve-the-legacy-cnff-video/</link>
+		<comments>/blog/2010/03/preserve-the-legacy-cnff-video/#comments</comments>
+		<pubDate>Tue, 09 Mar 2010 00:09:40 +0000</pubDate>
+		<dc:creator><![CDATA[Duncan]]></dc:creator>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Conservation]]></category>
+		<category><![CDATA[Land Use]]></category>
+		<category><![CDATA[Preservation]]></category>
+		<category><![CDATA[Theodore Roosevelt]]></category>
+		<category><![CDATA[Watersheds]]></category>
+
+		<guid isPermaLink="false">/blog/?p=30</guid>
+		<description><![CDATA[CNFF &#8211; Preserve The Legacy from CNFF on Vimeo. This video was funded through the San Diego County Board of Supervisors and the County of San Diego Cable Television Review Commission. In the year 2000 the Cleveland National Forest Foundation was one of five non-profits awarded a grant by the Community Partnership for Cable Television. [&#8230;]]]></description>
+		<wfw:commentRss>/blog/2010/03/preserve-the-legacy-cnff-video/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
