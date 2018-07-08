@@ -1,0 +1,145 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+
+	<title>CNFF - What You Can Do</title>
+
+	<link href="style.css" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+<img title="" alt="" src="images/cnff_lake_low.jpg" id="background"/>
+<div class="head">
+	<img title="" alt="" src="images/head.jpg" class="head fade90"/>
+</div> 
+<div class="body">
+	<img title="" alt="" src="images/1x1_333333.gif" class="body fade90" />
+</div>
+
+<div id="navcontainer">
+<img id="logo" title="" alt="" src="images/cnfflslight.png" />
+<h2>Navigate</h2>
+
+<p>Please have patience as our web presence is updated. </p>
+<ul id="navlist">
+<li><a href="index.html">Home</a></li>
+<li><a href="http://www.cnff.org/wordpress/">Blog</a></li>
+<li><a href="mission.html">Foundation Mission</a></li>
+<li><a href="coverage.html">Forest Coverage</a></li>
+<li><a href="land_use.html">Regional Land Use</a></li>
+<li><a href="who.html">Who We Are</a></li>
+<li id="active"><a href="you.html" id="current">What You Can Do</a></li>
+</ul>
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick" />
+<input type="hidden" name="hosted_button_id" value="6187689" />
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
+
+
+<p>&copy; 2009 Cleveland National Forest Foundation</p>
+</div>
+
+<div id="scroller">
+<div id="content">
+
+
+<h2 id="title">What You Can Do</h2>
+
+
+
+<p>
+	Your membership and donation to the Cleveland National Forest Foundation
+	will be used to achieve our goals to preserve and protect our forest wilderness.
+</p>
+<p>
+	All funding received and administered by the Foundation will be used to
+	acquire and protect land in or near the forest that is threatened by
+	development. Funds also will be used for
+	special projects selected by our members, such as the reintroduction of
+	native species to the forest.
+</p>
+<br />
+<p>
+	<em>
+		Join the CNFF mailing list&#58;
+	</em>
+</p>
+<br />
+
+
+<form action="verify.php" method="post">
+	<table id="membershipForm" summary="Join the CNFF mailing list by entering your information here and clicking submit.">
+	
+		<tr>
+			<td>First Name</td><td><input type="text" name="firstname" /></td>
+		</tr>
+		<tr>
+			<td>Last Name</td><td><input type="text" name="lastname" /></td>
+		</tr>
+		<tr>
+			<td>Address</td><td><input type="text" name="address" /></td>
+		</tr>	
+		<tr>
+			<td></td><td><input type="text" name="addressLine2" /></td>
+		</tr>
+		<tr>
+			<td>City</td><td><input type="text" name="city" /></td>
+		</tr>
+		<tr>
+			<td>State</td><td><input type="text" name="state" size="3" maxlength="2"/></td>
+		</tr>
+		<tr>
+			<td>Zip</td><td><input type="text" name="zip" size="5" /></td>
+		</tr>
+		<tr>
+			<td>Phone &#40;<i>numerals only</i>&#41;</td><td><input type="text" name="phone" size="10" maxlength="10" /></td>
+		</tr>		
+		<tr>
+			<td><br /></td>
+		</tr>
+		<tr>
+			<td><input type="reset" value="Clear" /></td>
+			<td>
+				<?php
+				 require_once('recaptchalib.php');
+				 $publickey = "6LcpSwsAAAAAAE0Vp8ck7H0WfynqPKgP3qZTOLUc";
+				 echo recaptcha_get_html($publickey);
+			   ?>
+				<input type="submit" value="Submit" />
+			</td>
+		</tr>
+		
+	</table>
+</form>
+
+<br />
+
+<p class="clearFloat"></p>
+
+
+
+
+
+<br />
+<!--Image below text on scroller
+  Click on map to enlarge.
+<a target="_blank" href="images/coverage.jpg">
+<img id="simage" title="" alt="" src="images/coverage.jpg" /> -->
+
+<div id="footer">
+<p><a href="index.html">Home</a> | 
+<a href="mailto:info@cnff.org?subject=CNFF">
+Contact</a> |</p>
+</div>
+
+
+
+</div>
+</div>
+
+</body>
+</html>
